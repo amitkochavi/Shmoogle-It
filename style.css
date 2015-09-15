@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#web{
+	width:1024px;
+	margin-right:auto;
+	margin-left:auto;
+	position: relative;
+	top: 10px;
+	height: auto;
+	font-family: "Century Gothic";
+}
+#title{
+	color:#00F;
+	width:1024px;
+	font-size: 24px;
+	font-family: "Century Gothic";
+	top: 10px;
+	position: relative;
+	
+}
